@@ -12,7 +12,7 @@ The model features explicit representations of production technologies using nes
 
 ![CESProd](Images/CESProd.png)
 
-![CESCons](Images/CESProds.png)
+![CESCons](Images/CESCons.png)
 
 **Upgraded EU Version**
 
