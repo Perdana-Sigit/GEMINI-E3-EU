@@ -15,3 +15,5 @@ The model closure must then be determined, specifying which macroeconomic variab
 Results are then compared to the baseline to assess impacts on key indicators like GDP, welfare, sectoral outputs, household incomes, and environmental emissions. 
 Finally, sensitivity analyses are often conducted by varying key assumptions or parameters, enhancing the robustness of the policy conclusions. This structure allows GEMINI-E3 to deliver comprehensive and internally consistent insights into the economic and environmental effects of complex policy interventions.
 In a schematic diagram, the general set up for simulations in GEMINI-E3 EU follows general set-up as other CGE models.
+
+![Model Set Up](Model Set Up.png)
