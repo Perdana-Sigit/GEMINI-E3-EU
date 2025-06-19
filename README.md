@@ -9,7 +9,11 @@ The primary outputs of the GEMINI-E3 model, generated on an annual and country-s
 **Model Structure**
 
 The model features explicit representations of production technologies using nested Constant Elasticity of Substitution (CES) functions, incorporating substitution possibilities between capital, labor, energy, and materials. Final demand is modeled at the household level using nested CES utility functions, while international trade is represented via the Armington assumption to differentiate domestic and imported goods. Government and investment behaviors are explicitly modeled, and environmental modules include emissions accounting and permit trading schemes such as the EU ETS. Calibration relies on Social Accounting Matrices (SAMs) and energy balance data, typically benchmarked to a base year, allowing for consistent policy simulations over time.
- 
+
+![CESProd](Images/CESProd.png)
+
+![CESCons](Images/CESProds.png)
+
 **Upgraded EU Version**
 
 The EU-specific version of GEMINI-E3 disaggregates the European Union into multiple regions, significantly increasing the granularity of climate policy analysis at both the national and EU levels. This enhancement improves empirical consistency and predictive accuracy in comparison with other Integrated Assessment Models (IAMs). Furthermore, this version incorporates additional features, including a detailed representation of labor markets, differentiation of household types, the introduction of air pollutants, and new emission reduction technologies such as biofuels, heat pumps, and hydrogen-based solutions.
