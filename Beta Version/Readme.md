@@ -1,3 +1,0 @@
-**Beta Version**
-
-The Beta Version of GEMINI-E3 EU, featuring the same specifications as the forthcoming DIAMOND version, became available in October 2023. This version is primarily used to test the consistency of the database and to verify the solving properties of the model. Additionally, it serves as a foundation for developing a new output interface that generates Excel templates, as well as for drafting the new specifications of the model to be implemented under the DIAMOND project. The Beta Version runs simulations over the period 2017 to 2050, providing a robust platform for improving model functionalities and preparing for future updates.
