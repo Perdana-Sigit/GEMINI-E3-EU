@@ -1,1 +1,4 @@
+Scenario Protocol Version - 21 May 2026
 
+This version of GEMINI-E3 EU is the one used to simulate the scenario protocol scenario done with the DIAMOND Project. The folder content the gams files to simulate the model and an excel sheet to visualize the result in the IPCC format. To run the model you need to have some gdx files that require a GTAP licence of the GTAP 11 dabase https://www.gtap.agecon.purdue.edu/databases/v11/ These gdx files would be send after a proof of the GTAP licence.
+It is also the version mostly described in the Delivearble D3.6 of the DIAMOND Project
