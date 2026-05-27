@@ -1,0 +1,9 @@
+site_name: GEMINI-E3-EU Documentation
+
+nav:
+  - Home: index.md
+
+theme:
+  name: readthedocs
+
+docs_dir: docs
