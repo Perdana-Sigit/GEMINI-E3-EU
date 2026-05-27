@@ -2,7 +2,8 @@ site_name: GEMINI-E3-EU Documentation
 
 nav:
   - Home: index.md
-  - Introduction: introduction.md
+ - Introduction:
+      - Overview: introduction/overview.md
 theme:
   name: readthedocs
 
