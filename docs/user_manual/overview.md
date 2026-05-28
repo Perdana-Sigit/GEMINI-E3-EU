@@ -21,3 +21,5 @@ Simulations in GEMINI-E3-EU follow a standard Computable General Equilibrium (CG
 Model parameters are calibrated to reproduce the observed economic equilibrium of the reference year. Policy shocks or external changes—such as carbon pricing, trade policies, or energy transition measures—are then introduced. The model subsequently solves for a new equilibrium by recalculating prices, production, incomes, trade flows, and emissions while ensuring market-clearing conditions.
 
 Simulation results are compared with the baseline to assess impacts on macroeconomic, sectoral, distributional, and environmental indicators. Sensitivity analyses can also be conducted to evaluate the robustness of results under alternative assumptions and parameter values. Overall, the simulation structure of GEMINI-E3-EU follows the general framework commonly applied in CGE modelling.
+
+![Flowchart Manual](../Images/Flow-Manual.png)
