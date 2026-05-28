@@ -41,3 +41,6 @@ New features include:
 -	Imperfect labour mobility across sectors,
 -	Labour reallocation mechanisms during the low-carbon transition.
 
+## Regionalisation and Spatial Extensions
+
+The model establishes the basis for coupling with regional information at the NUTS-2 level, enabling spatial analysis of emissions, welfare impacts, and regional policy outcomes across Europe.
