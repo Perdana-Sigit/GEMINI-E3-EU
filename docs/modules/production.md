@@ -4,9 +4,7 @@ The production module of GEMINI-E3-EU represents producer behaviour under the as
 
 At the highest level of the production structure, sectoral output is generated from a combination of value-added-energy composites and intermediate inputs. The value-added-energy bundle is then decomposed into labour, capital, and energy components through successive CES nests. Energy inputs are further disaggregated into fossil fuels, electricity, and other energy carriers, enabling representation of fuel and technology substitution.
 
-**CES Production Structure**
-
-![CES Structure](../../Images/CESProd.png)
+![CES Structure](../Images/CESProd.png)
 
 The production module distinguishes major economic sectors including:
 
