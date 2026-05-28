@@ -1,0 +1,1 @@
+The energy module represents energy production, transformation, and consumption within the GEMINI-E3-EU framework. Energy sectors are integrated through nested CES structures, allowing substitution between fuels, electricity technologies, and other energy carriers in response to changes in prices, technological developments, and climate policies.
