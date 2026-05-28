@@ -13,10 +13,10 @@ Sectoral classifications have also been refined to improve consistency with clim
 The model explicitly represents several technologies relevant for long-term decarbonisation pathways, including:
 
 - Hydrogen
-•	Biofuels
-•	Heat-pumps
-- Carbon Capture and Storage (CCS),
-- Renewable electricity technologies.
+- Biofuels
+- Heat-pumps
+- Carbon Capture and Storage (CCS)
+- Renewable electricity technologies
 
 These additions improve the representation of hard-to-abate sectors and allow assessment of technology-specific policy instruments and transition pathways.
 
@@ -26,7 +26,7 @@ Beyond carbon dioxide (CO₂), the model includes additional greenhouse gases su
 
 - NOₓ
 - SO₂
-- PM2.5.
+- PM2.5
 
 This extended coverage enables integrated assessment of climate mitigation policies and their environmental co-benefits.
 
@@ -38,8 +38,8 @@ New features include:
 
 -	Household categories differentiated by income groups
 -	Skilled and unskilled labour representation
--	Imperfect labour mobility across sectors,
--	Labour reallocation mechanisms during the low-carbon transition.
+-	Imperfect labour mobility across sectors
+-	Labour reallocation mechanisms during the low-carbon transition
 
 ## Regionalisation and Spatial Extensions
 
