@@ -1,0 +1,1 @@
+The current version of GEMINI-E3-EU has been developed and upgraded under Work Package 3 (WP3) of the DIAMOND project (“Delivering the next generation of open Integrated Assessment Models for Net-zero, sustainable Development”)
