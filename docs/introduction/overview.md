@@ -2,7 +2,7 @@
 
 ## What is GEMINI-E3-EU?
 
-GEMINI-E3-EU is a recursive dynamic, multi-country, multi-sector Computable General Equilibrium (CGE) model designed to analyse interactions between the economy, energy systems, and the environment.
+GEMINI-E3-EU is a recursive dynamic, multi-country, multi-sector **Computable General Equilibrium (CGE)** model designed to analyse interactions between the economy, energy systems, and the environment.
 
 The model simulates the functioning of domestic and international markets under the assumption of market equilibrium, where supply and demand are balanced through adjustments in relative prices, wages, interest rates, and exchange rates.
 
