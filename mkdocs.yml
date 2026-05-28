@@ -4,6 +4,23 @@ nav:
   - Home: index.md
   - Introduction:
       - Overview: introduction/overview.md
+      - GEMINI-E3-EU within DIAMOND: introduction/diamond.md
+      - Main Features: introduction/features.md
+      - Scope and Applications: introduction/applications.md
+  - Modules:
+      - Production Module: modules/production.md
+      - Household Consumption Module: modules/household.md
+      - Energy Module: modules/energy.md
+      - Electricity Generation: modules/electricity.md
+      - Hydrogen: modules/hydrogen.md
+      - Biofuels: modules/biofuels.md
+      - Heat Pumps: modules/heat_pumps.md
+      - CCS: modules/ccs.md
+  - User Manual:
+      - Overview: user_manual/overview.md
+  - Limitations and Future Improvements:
+      - Overview: limitations/overview.md
+  - References: references.md
 
 theme:
   name: readthedocs
