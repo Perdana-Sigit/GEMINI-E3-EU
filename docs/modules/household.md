@@ -1,0 +1,1 @@
+The household consumption module represents household demand for goods and services within the GEMINI-E3-EU framework. Household behaviour is modelled through a nested Constant Elasticity of Substitution (CES) consumption structure, allowing substitution between energy and non-energy goods in response to changes in prices, income, and climate policy measures.
