@@ -5,7 +5,7 @@ The household consumption module represents household demand for goods and servi
 Households allocate their disposable income across different consumption categories while maximising utility under budget constraints. The consumption structure captures substitution possibilities between energy carriers, transport fuels, electricity, and other commodities, enabling the model to assess behavioural responses to carbon pricing, energy taxation, and technological transitions.
 
 **Household CES Struture**
-![Production CES Nesting](../../Images/CESCons.jpg)
+![Production CES Nesting](../Images/CESCons.jpg)
 
 The module includes consumption demand for:
 
