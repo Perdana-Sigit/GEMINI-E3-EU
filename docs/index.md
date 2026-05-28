@@ -8,8 +8,8 @@ GEMINI-E3-EU is a recursive dynamic computable general equilibrium (CGE) model d
 
 ## Documentation sections
 
-- Model structure
-- Data sources
-- Scenario protocols
-- NUTS-2 regionalisation
-- Policy simulations
+- Introduction
+- Modules
+- User Manual
+- Limitation and Future Improvement
+- References
